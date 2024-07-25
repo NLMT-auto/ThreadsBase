@@ -1,7 +1,7 @@
 # Threads Base
-Esta implementação é uma estruta de base para desenvolver aplicações em conteiners usando multi threads, se o conteiner "Control" como exemplo para desenvolver suas aplicações. <br>
+Esta implementação é uma estruta de base para desenvolver aplicações em conteiners usando multi threads, sendo o conteiner "Control" um exemplo de como desenvolver suas aplicações. <br>
 
-Caso seja criado novos conteiners não se esqueça de declarar o caminho de tedos os arquivos .cpp e .h no CMakeList.txt para que sejam compilados e vinculados ao executável VIDA.<br>
+Caso seja criado novos conteiners não se esqueça de declarar o caminho de todos os arquivos .cpp e .h no CMakeList.txt para que sejam compilados e vinculados ao executável VIDA.<br>
 
 Caso seja usada bibliotecas externas também é necessário fazer a vinculção ao execultável no CMakeList.txt.
 
